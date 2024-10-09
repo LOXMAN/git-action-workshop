@@ -15,4 +15,5 @@ This repository for Git Action Training.
 ```bash
 git init
 git fetch
+git remote add origin [url]
 ```
