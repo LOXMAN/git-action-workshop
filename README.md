@@ -15,3 +15,5 @@ This repository for Git Action Training.
 ```bash
 git init
 git add chanon.txt
+git remote add origin [url]
+```
