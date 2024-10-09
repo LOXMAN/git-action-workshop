@@ -15,4 +15,5 @@ This repository for Git Action Training.
 ```bash
 git init
 git rebase skip
+git remote add origin [url]
 ```
